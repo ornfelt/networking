@@ -1,0 +1,70 @@
+*.exe
+*.o
+**/.vs/
+**/x64/
+**/Debug/
+**/Release/
+##################################
+unity/Atic Atac Remake/Library/
+unity/Atic Atac Remake/Temp/
+csharp/AticAtac/ObjectDataCreator/packages/
+csharp/AticAtac/ObjectDataCreator/ObjectDataCreator/bin/Debug/ObjectDataCreator.vshost.exe.config
+csharp/AticAtac/ObjectDataCreator/ObjectDataCreator/obj/
+csharp/AticAtac/ObjectDataCreator/AticAtacTypes/obj/
+csharp/AticAtac/MapShapeColourizer/obj/
+csharp/AticAtac/MapShapeColourizer/bin/
+csharp/AticAtac/ObjectDataCreator/ObjectDataCreator/bin/
+unity/Real World Map Data/Assets/Resources/epcot.txt
+unity/Real World Map Data/Assets/Resources/epcot.txt.meta
+unity/Custom Player Settings/Temp/
+unity/Custom Player Settings/Library/
+unity/Custom Player Settings/Builds/
+unity/ThirdPersonCamera/Temp/
+unity/ThirdPersonCamera/Library/
+unity/Manic Miner Remake/Library/
+unity/Manic Miner Remake/Assets/Resources/manicminer.bytes.meta
+unity/Manic Miner Remake/Assets/Resources/manicminer.bytes
+unity/UI Component Examples/Library/BuildPlayer.prefs
+unity/UI Component Examples/Library/
+cpp/networking/MultipleClientsBarebonesServer/MultipleClientsBarebonesServer/x64/
+cpp/networking/MultipleClientsBarebonesServer/MultipleClientsBarebonesServer.sdf
+unity/Unity Web Site Debugger/Library/
+unity/Unity Web Site Debugger/Assets/Standard Assets/
+cpp/networking/MultipleClientsBarebonesServer/.vs/MultipleClientsBarebonesServer/v15/
+unity/Manic Miner Remake/Temp/
+unity/Ludum Dare 39/Library/
+cpp/networking/UDPQOTDClientServer/
+unity/Space Rescue/Space Rescue/Library/
+unity/ThreeThousandSubs/3000 Subs/Library/
+*.keystore
+unity/Space Rescue/Exports/
+unity/UI/DynamicallyAddingButtons/Library/
+csharp/Spectrum Graphics Editor/
+cpp/_ignore/
+unity/UI/DynamicallyAddingButtons/Temp/
+unity/Interactions/Elevator/Elevator Interaction/Library/
+unity/Interactions/Elevator/Elevator Interaction/Assets/Standard Assets/
+unity/Interactions/Elevator/Elevator Interaction/Temp/
+unity/Flappy Bird/Library/
+unity/Ludum Dare 40/Ludum Dare 40/Temp/
+unity/Ludum Dare 40/Ludum Dare 40/Library/
+cpp/networking/UDPClientServerBasic/UDP_Server/UDP_Server/Debug/
+cpp/networking/UDPClientServerBasic/UDP_Client/UDP_Client/Debug/
+*.sdf
+*.opendb
+cpp/networking/BarebonesClient/Barebones_Client/x64/
+cpp/networking/BarebonesServer/BarebonesServer/x64/
+unity/Riff_On_Shiff/Library/
+unity/Lock Poppers/Lock Poppers/Library/
+cpp/networking/SocketsWrapper/
+unity/Konami Code/Konami Code/Library/
+unity/Subtitles/Subtitles/Assets/ProCore/
+unity/Subtitles/Subtitles/Assets/Standard Assets/
+unity/Subtitles/Subtitles/Library/
+unity/Interactions/ElevatorStartingScene.unitypackage
+unity/Interactions/SloanKelly.GameLib.unitypackage
+unity/Making Notes/
+unity/IsoSurfaceShader/
+unity/Subtitles/Subtitles/Temp/
+unity/Subtitles/Subtitles/Assets/CloudTools/
+unity/Chess/Library/

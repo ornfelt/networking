@@ -1,0 +1,27 @@
+Game Screen
+	* Farmer Giles (Maybe some leg animation ?)
+		Freeman's Gravity Gun
+			* Attact
+			- Repel (Would be nice to have)
+	Sheep
+		* Dropped of by the truck
+		* Must be dumped (one at a time) into the Shear-o-matic
+	Wool
+		Produced each time a sheep is sheered
+		Drop off in the Sweater maker
+	Foxes
+		Repel foxes (hurl sheep at them)
+		Don't let them attack the sheep
+	Robbers
+		Steal the wool
+		Stop by hurling sheep at them
+Main Menu
+	Play the game
+	Options 
+		Music Volume
+		FX Volume
+	Quit
+Game Over
+	How long you lasted
+	Home much wool you produced
+	How many sheep lost to foxes
